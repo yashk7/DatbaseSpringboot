@@ -7,11 +7,7 @@
 <title>User Details for the ID</title>
 </head>
 <body>
-		<h2>USER DETAILS</h2>
-		<span>${userdata}</span>
-		<span>${userdata}</span>
-		console.log(${userdata.name});
-		alert(${userdata.name});
+		<h2>USER DETAILS Can we found on CONSOLE</h2>
 		
 </body>
 </html>
